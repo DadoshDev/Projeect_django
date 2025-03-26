@@ -31,4 +31,3 @@ media/
 # Secrets va mahfiy fayllar
 .env
 config/settings_local.py
-.idea
